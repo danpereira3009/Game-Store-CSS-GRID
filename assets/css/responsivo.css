@@ -1,0 +1,46 @@
+@media screen and (min-width: 0) {
+    .cabecalho {
+        background: yellow;
+    }
+
+    .menu__item a {
+        font-size: 14px;
+        padding: 0;
+        border-radius: 5px;  
+    }
+
+}
+    
+@media screen and (min-width: 364px) {
+    .cabecalho {
+            background: red;
+    }
+
+    .menu__item a {
+        font-size: 16px;
+        padding: 4px;
+        border-radius: 5px;  
+    }
+
+}
+
+@media screen and (min-width: 768px) {
+   
+    .cabecalho {
+            background: black;
+    }
+}
+    
+@media screen and (min-width: 992px) {
+    
+    .cabecalho {
+            background: blue;
+    }
+}
+    
+@media screen and (min-width: 1200px) {
+    
+    .cabecalho {
+            background: red;
+    }
+}
